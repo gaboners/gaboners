@@ -71,9 +71,9 @@ acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 #EXTINF:-1 tvg-id="Movistar Deportes" group-title="Movistar acestream" tvg-name="#vamos",#vamos
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
-#EXTINF:-1 tvg-id="Movistar Deportes" group-title="Movistar acestream" tvg-name="#vamos2",#vamos2
+#EXTINF:-1 tvg-id="Movistar Deportes" group-title="Movistar" tvg-name="#vamos2",#vamos2
 http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/337813.m3u8
-#EXTINF:-1 tvg-id="MOVISTAR DEPORTES" group-title="Movistar acestream" tvg-name="MOVISTAR DEPORTES3",MOVISTAR DEPORTES3
+#EXTINF:-1 tvg-id="MOVISTAR DEPORTES" group-title="Movistar" tvg-name="MOVISTAR DEPORTES3",MOVISTAR DEPORTES3
 http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323634.m3u8
 
 
